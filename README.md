@@ -1,1 +1,1 @@
-# jwt-token
+# JWT-token
